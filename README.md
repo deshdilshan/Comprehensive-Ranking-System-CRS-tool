@@ -1,13 +1,21 @@
-Comprehensive Ranking System (CRS) tool: skilled immigrants (Express Entry)
+# <a href="https://github.com/rhildred/es6-twilio-chatbot" target="_blank">es6-twilio-chatbot</a>
 
-This tool will help you calculate your Comprehensive Ranking System (CRS) score based on the answers you provide below. The CRS is a points-based system that we use to assess and score your profile and rank it in the Express Entry pool. It’s used to assess your:
+I got the user interface for the web from a student of mine, Pat Wilken.
 
-skills
-education
-language ability
-work experience
-other factors
+A chatbot written in es6 and vs6 for twilio and testing on the web. The important files are index.js and game.js.
 
-Use this tool if:
-you have not filled out an Express Entry profile and you’d like to see what your Comprehensive Ranking System (CRS) score might be if you do, OR
-you were invited to apply for permanent residence, and want to see if a change to your profile may affect your CRS score. You need to make sure that your CRS score is above the minimum points score of your round of invitations.
+Requirements
+--------------------
+ npm
+ node
+
+How to run in local computer
+-----------------------
+
+Open ur terminal.
+set the path to terminal
+run npm install
+
+
+
+
